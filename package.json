@@ -1,0 +1,8 @@
+{
+  "name": "orsan-customer-centric",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  }
+}
